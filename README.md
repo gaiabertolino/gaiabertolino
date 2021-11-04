@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gaiabertolino
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently attending computer engineering
